@@ -43,7 +43,17 @@
         "location":"Qubec City",
         "distance":"6-hour drive"}
 
- ]
+ ],
+
+ "datab": [
+    {"img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645827195/metas/airbnb-clone/a_qrg7u8.jpg","title":"Outdoor getaways"},
+    
+    {"img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645827195/metas/airbnb-clone/b_m5hrrh.jpg","title":"Unique stays"},
+    
+    {"img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645827195/metas/airbnb-clone/d_tekhea.jpg","title":"Entire homes"},
+    
+    {"img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645827195/metas/airbnb-clone/v_stsfhl.jpg","title":"Pet allowed"}
+]
 
 
 }
