@@ -1,0 +1,49 @@
+{
+
+ "data": [
+
+    {   
+        "img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645822721/metas/airbnb-clone/sb5_trqwyo.jpg",
+        "location":"Barrie",
+        "distance":"1.5-hour drive"
+    },
+        
+    {
+        "img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645822721/metas/airbnb-clone/sb6_dgcu2j.jpg",
+        "location":"Montreal",
+        "distance":"6-hour drive"},
+    
+    {
+        "img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645822721/metas/airbnb-clone/sb4_pyvghx.jpg",
+        "location":"Calgary",
+        "distance":"3-hour flight"},
+    
+    {
+        "img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645822721/metas/airbnb-clone/sb3_ibkgwp.jpg",
+        "location":"Waterloo",
+        "distance":"2-hour drive"},
+    
+    {
+        "img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645822721/metas/airbnb-clone/sb2_xh8ddr.jpg",
+        "location":"Banff",
+        "distance":"4-hour flight"},
+    
+    {
+        "img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645822721/metas/airbnb-clone/sb8_f4ygjb.jpg",
+        "location":"Grand Bend",
+        "distance":"4.5-hour drive"},
+    
+    {
+        "img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1642616781/metas/airbnb-clone/a_eiejcx.webp",
+        "location":"Ottawa",
+        "distance":"4-hour drive"},
+    
+    {
+        "img":"https://res.cloudinary.com/dvhcociyf/image/upload/v1645822721/metas/airbnb-clone/sb1_kmnkwj.jpg",
+        "location":"Qubec City",
+        "distance":"6-hour drive"}
+
+ ]
+
+
+}
